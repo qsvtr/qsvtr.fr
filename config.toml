@@ -12,7 +12,6 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 disqusShortname = "qsvtr-fr"
 enableRobotsTXT = true
-googleAnalytics  = "UA-151584706-1"
 
 [params]
     author = "Quentin SAUVETRE"
@@ -44,7 +43,7 @@ googleAnalytics  = "UA-151584706-1"
     custom_css = ["css/custom.css"]
 
     # Custom JS
-    # custom_js = ["js/custom.js"]
+    custom_js = ["js/matomo.js"]
 
 [taxonomies]
   category = "categories"
