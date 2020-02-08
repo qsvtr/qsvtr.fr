@@ -1,0 +1,105 @@
+baseurl = "/"
+title = "Quentin SAUVETRE - qsvtr"
+favicon_32 = ""
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+disqusShortname = "qsvtr-fr"
+enableRobotsTXT = true
+googleAnalytics  = "UA-151584706-1"
+
+[params]
+    author = "Quentin SAUVETRE"
+    description = "Quentin SAUVETRE's personal website"
+    keywords = "quentin sauvetre, qsvtr, isen"
+    info = "French Student"
+    avatarurl = "images/avatar.jpg"
+    footercontent = "@qsvtr <br/> <a target='_blank' href='http://y2aun4yminnn3qlaiymvgphtpjfbwv273kt2mqzu73intnb3mf4a5pyd.onion/'>y2aun4yminnn3qlaiymvgphtpjfbwv273kt2mqzu73intnb3mf4a5pyd.onion</a>"
+
+    dateformat = "January 2, 2006"
+
+    hideCredits = true
+    hideCopyright = true
+
+    rtl = false
+    math = true
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorscheme = "auto"
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Custom CSS
+    custom_css = ["css/custom.css"]
+
+    # Custom JS
+    # custom_js = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[[params.social]]
+    name = "Resume"
+    icon = "fa fa-file-pdf"
+    weight = 1
+    url = "/documents/ResumeQuentinSAUVETRE.pdf"
+[[params.social]]
+    name = "Keybase"
+    icon = "fab fa-keybase"
+    weight = 1
+    url = "https://keybase.io/qsvtr/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 2
+    url = "https://twitter.com/qsvtr/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 3
+    url = "https://fr.linkedin.com/in/quentin-sauvetre-56b73017b"
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 4
+    url = "https://github.com/qsvtr/"
+
+
+[languages]
+    [languages.en]
+        languagename = "English"
+
+
+        [languages.en.menu]
+            [[languages.en.menu.main]]
+            name = "Who I am"
+            weight = 1
+            url = "whoiam/"
+
+            [[languages.en.menu.main]]
+            name = "Blogs"
+            weight = 2
+            url = "posts/"
+
+            [[languages.en.menu.main]]
+            name = "Contact me"
+            weight = 3
+            url = "contact/"
+
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 4
+            url = "about/"
