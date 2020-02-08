@@ -3,8 +3,6 @@ title = "Who I am"
 slug = "whoiam"
 +++
 
-<a target='_blank' href='https://qsvtr.fr/documents/ResumeQuentinSAUVETRE.pdf'>Download my resume (en/fr)</a>
-
 3rd Year of a 5 year course to obtain a Masters in Engineering at
 ISEN, Nantes - French 'Grande Ecole' Graduate Engineering School
 specialized in Electronics and Digital Technologies (EUR-ACE
