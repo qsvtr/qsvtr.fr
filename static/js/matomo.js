@@ -1,10 +1,14 @@
 <!-- Matomo -->
-let _paq = window._paq || [];
+var _paq = window._paq || [];
 /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+_paq.push(["setCookieDomain", "*.qsvtr.fr"]);
+_paq.push(["setDomains", ["*.qsvtr.fr","*.dev.qsvtr.fr"]]);
+_paq.push(["setDoNotTrack", true]);
 _paq.push(['trackPageView']);
 _paq.push(['enableLinkTracking']);
 (function() {
-    var u="//dev.qsvtr.fr/matomo/";
+    var u="https://dev.qsvtr.fr/matomo/";
     _paq.push(['setTrackerUrl', u+'matomo.php']);
     _paq.push(['setSiteId', '1']);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
