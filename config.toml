@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "localhost"
 title = "Quentin SAUVETRE - qsvtr"
 favicon_32 = ""
 theme = "hugo-coder"
@@ -88,10 +88,11 @@ enableRobotsTXT = true
             weight = 1
             url = "whoiam/"
 
-            [[languages.en.menu.main]]
-            name = "Blogs"
-            weight = 2
-            url = "posts/"
+            # [[languages.en.menu.main]]
+            # name = "Blogs"
+            # weight = 2
+            # url = "posts/"
+
 
             [[languages.en.menu.main]]
             name = "Contact me"
