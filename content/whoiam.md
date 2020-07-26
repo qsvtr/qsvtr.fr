@@ -3,16 +3,16 @@ title = "Who I am"
 slug = "whoiam"
 +++
 
-3rd Year of a 5 year course to obtain a Masters in Engineering at
+First year of a master's degree in Engineering at
 ISEN, Nantes - French 'Grande Ecole' Graduate Engineering School
-specialized in Electronics and Digital Technologies (EUR-ACE
+specialized in cybersecurity (EUR-ACE
 accredited)
 
-I am interested in cybersecurity, blockchain and cryptocurrencies #Bitcoin
+I am interested in cybersecurity, blockchain and cryptocurrencies
 
 ## EXPERIENCES
 + Student intern at [TATOU.CO](https://tatou.co), I realised a **scraper in NodeJS** to obtain prices from booking sites (Booking, Expedia, HomeAway, etc...). <b>July 2019 - 5 weeks</b>
-+ Member of the robotics club of my school
++ Member of the robotics club of my school (2019-2020)
 * 10 Years of scouting
     
 ## EDUCATION & CERTIFICATES
@@ -28,5 +28,5 @@ I am interested in cybersecurity, blockchain and cryptocurrencies #Bitcoin
 **Others:** Linux, Arduino, NodeJS, Ionic framework, React Native   
  
 ## HOBBIES
-* Running: half marathon (21.1Km)
-* Combine environment and technology
+* Running: half-marathon (21.1Km)
+* blockchain and cryptocurrencies

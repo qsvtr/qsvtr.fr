@@ -2,8 +2,8 @@
 title = "Contact"
 slug = "contact"
 +++
-Keybase: https://keybase.io/qsvtr <br>
+Keybase: https://keybase.io/qsvtr
 
-Follow me: [@qsvtr](https://twitter.com/qsvtr)
+Twitter: [@qsvtr](https://twitter.com/qsvtr)
 
 Email: qsvtr ***[at]*** protonmail ***[dot]*** com

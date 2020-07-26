@@ -1,5 +1,5 @@
 baseurl = "localhost"
-title = "Quentin SAUVETRE - qsvtr"
+title = "qsvtr - Quentin SAUVETRE"
 favicon_32 = ""
 theme = "hugo-coder"
 languagecode = "en"
@@ -17,7 +17,7 @@ enableRobotsTXT = true
     author = "Quentin SAUVETRE"
     description = "Quentin SAUVETRE's personal website"
     keywords = "quentin sauvetre, qsvtr, isen"
-    info = "French Student"
+    info = "French student in IT, interested by cybersecurity, blockchain and cryptocurrencies."
     avatarurl = "images/profileQuentinSAUVETRE266x303.png"
     footercontent = "@qsvtr <br/> <a target='_blank' href='http://y2aun4yminnn3qlaiymvgphtpjfbwv273kt2mqzu73intnb3mf4a5pyd.onion/'>y2aun4yminnn3qlaiymvgphtpjfbwv273kt2mqzu73intnb3mf4a5pyd.onion</a>"
 
@@ -34,7 +34,7 @@ enableRobotsTXT = true
     # "auto" (use preference set by browser)
     # "dark" (dark background, light foreground)
     # "light" (light background, dark foreground) (default)
-    colorscheme = "auto"
+    colorscheme = "dark"
 
     # Series see also post count
     maxSeeAlsoItems = 5
@@ -69,7 +69,7 @@ enableRobotsTXT = true
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 3
-    url = "https://fr.linkedin.com/in/quentin-sauvetre-56b73017b"
+    url = "https://www.linkedin.com/in/qsvtr/"
 [[params.social]]
     name = "Github"
     icon = "fab fa-github"
