@@ -1,4 +1,4 @@
-baseurl = "localhost"
+baseurl = "https://qsvtr.fr"
 title = "qsvtr - Quentin SAUVETRE"
 favicon_32 = ""
 theme = "hugo-coder"
