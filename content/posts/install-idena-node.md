@@ -1,8 +1,8 @@
 +++
 date = "2020-09-13"
 title = "How to install an Idena node"
-description = "The post demonstrates features of the coder theme."
-images = ["/images/N90.jpg"]
+description = "how to install an Idena node and configure it"
+images = ["/images/idena/idena-client.jpg"]
 math = true
 series = ["dev", "crypto"]
 +++
@@ -81,4 +81,6 @@ we will use an open source tool: [idena-manager](https://gitlab.com/crackowich/i
 + change SSH port
 + use keys identification instead of password
 
-**You can contact me on Twitter or Telegram if you have any questions**
+if you want to make a donation to supporte me: `0x480b82dfc93a4460b10213f142e1e8144d647a2b`
+
+**You can contact me on Telegram or Twitter if you have any questions**
