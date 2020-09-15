@@ -18,7 +18,7 @@ series = ["dev", "crypto"]
     * 2 Gb RAM
     * 100 Gb HDD
     * 100 Mbps uplink
-+ Establish tunnel connection (**required to connect the Idena client to your remote node EACH time**)
++ Establish a tunnel connection (**required to connect the Idena client to your remote node EACH time**)
     * **Windows**:
         - install [PUTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
         - configure the tunnel {{< figure src="https://idena.io/images/tunnel.jpg" caption="" >}}
@@ -27,7 +27,7 @@ series = ["dev", "crypto"]
         - open a terminal and type: `ssh -L 9999:localhost:9009 YOUR_VPS_IP`
 + (optional) [Secure your vps](#ideas-to-secure-your-vps)
 
-# Quick way (faster)
+# Quick way
 we will use an open source tool: [idena-manager](https://gitlab.com/crackowich/idena-manager)
 + log into your vps 
 + (optional) create an Idena directory: `mkdir idena && cd idena`
