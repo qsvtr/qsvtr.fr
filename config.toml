@@ -16,25 +16,27 @@ enableRobotsTXT = true
 [params]
     author = "Quentin SAUVETRE"
     description = "Quentin SAUVETRE's personal website"
-    keywords = "quentin sauvetre, qsvtr, isen"
+    keywords = "quentin, sauvetre, qsvtr, isen"
     info = "French student in IT, interested by cybersecurity, blockchain and cryptocurrencies."
     avatarurl = "images/profileQuentinSAUVETRE266x303.png"
-    footercontent = "@qsvtr <br/> <a target='_blank' href='http://y2aun4yminnn3qlaiymvgphtpjfbwv273kt2mqzu73intnb3mf4a5pyd.onion/'>y2aun4yminnn3qlaiymvgphtpjfbwv273kt2mqzu73intnb3mf4a5pyd.onion</a>"
+    footercontent = "@qsvtr <br/> <a target='_blank' href='http://y2aun4yminnn3qlaiymvgphtpjfbwv273kt2mqzu73intnb3mf4a5pyd.onion/'>Tor website</a>"
 
     dateformat = "January 2, 2006"
 
+    hideFooter = false
     hideCredits = true
     hideCopyright = true
 
     rtl = false
     math = true
+    enableTwemoji = true
 
     # Specify light/dark colorscheme
     # Supported values:
     # "auto" (use preference set by browser)
     # "dark" (dark background, light foreground)
     # "light" (light background, dark foreground) (default)
-    colorscheme = "dark"
+    colorscheme = "auto"
 
     # Series see also post count
     maxSeeAlsoItems = 5
@@ -75,6 +77,11 @@ enableRobotsTXT = true
     icon = "fab fa-github"
     weight = 4
     url = "https://github.com/qsvtr/"
+[[params.social]]
+    name = "Telegram"
+    icon = "fab fa-telegram"
+    weight = 5
+    url = "https://t.me/qsvtr/"
 
 
 [languages]
@@ -88,10 +95,10 @@ enableRobotsTXT = true
             weight = 1
             url = "whoiam/"
 
-            # [[languages.en.menu.main]]
-            # name = "Blogs"
-            # weight = 2
-            # url = "posts/"
+            [[languages.en.menu.main]]
+            name = "Blogs"
+            weight = 2
+            url = "posts/"
 
 
             [[languages.en.menu.main]]
