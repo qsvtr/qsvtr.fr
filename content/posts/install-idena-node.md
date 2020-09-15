@@ -2,7 +2,7 @@
 date = "2020-09-13"
 title = "How to install an Idena node"
 description = "how to install an Idena node and configure it"
-images = ["/images/idena/idena-client.jpg"]
+images = ["/images/idena/idena_client.png"]
 math = true
 series = ["dev", "crypto"]
 +++
