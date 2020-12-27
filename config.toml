@@ -19,7 +19,7 @@ enableRobotsTXT = true
     keywords = "quentin, sauvetre, qsvtr, isen"
     info = "French student in IT, interested by cybersecurity, blockchain and cryptocurrencies."
     avatarurl = "images/profileQuentinSAUVETRE266x303.png"
-    footercontent = "@qsvtr <br/> <a target='_blank' href='http://y2aun4yminnn3qlaiymvgphtpjfbwv273kt2mqzu73intnb3mf4a5pyd.onion/'>Tor website</a>"
+    footercontent = "@qsvtr" # <br/> <a target='_blank' href='http://y2aun4yminnn3qlaiymvgphtpjfbwv273kt2mqzu73intnb3mf4a5pyd.onion/'>Tor website</a>"
 
     dateformat = "January 2, 2006"
 
@@ -98,7 +98,7 @@ enableRobotsTXT = true
             [[languages.en.menu.main]]
             name = "Blogs"
             weight = 2
-            url = "posts/"
+            url = "https://docs.qsvtr.fr/"
 
 
             [[languages.en.menu.main]]

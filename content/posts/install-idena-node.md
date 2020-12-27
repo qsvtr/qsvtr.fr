@@ -23,6 +23,7 @@ series = ["dev", "crypto"]
         - install [PUTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
         - configure the tunnel {{< figure src="https://idena.io/images/tunnel.jpg" caption="" >}}
         - try to login into your vps with your credentials
+
     * **MacOS / Linux**:
         - open a terminal and type: `ssh -L 9999:localhost:9009 YOUR_VPS_IP`
 + (optional) [Secure your vps](#ideas-to-secure-your-vps)

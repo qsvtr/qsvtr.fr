@@ -16,17 +16,17 @@ I am interested in cybersecurity, blockchain and cryptocurrencies
 * 10 Years of scouting
     
 ## EDUCATION & CERTIFICATES
-* 3rd Year Student ISEN Nantes - now
+* Student ISEN Nantes - now
 * Projet VOLTAIRE: Professional french spelling level - 2018
 * CISCO CCNA 1 - 2018
 
 ## SKILLS
 **Professionals:** Autonomous, Curious, Organized, Team Work
 
-**Programming languages:** C++ (Qt), Web (HTML, PHP, Javascript), SQL
+**Programming languages:** Java, C++(Qt), Web (HTML, PHP, Javascript), SQL
 
 **Others:** Linux, Arduino, NodeJS, Ionic framework, React Native   
  
 ## HOBBIES
-* Running: half-marathon (21.1Km)
-* blockchain and cryptocurrencies
+* Running: marathons preparation
+* blockchain and cryptocurrencies: operation, development and trading
